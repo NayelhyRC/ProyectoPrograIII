@@ -1,0 +1,899 @@
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.LocalPersonal.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\Inside\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.LocalPersonal.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\ucang\Downloads\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\hp\Desktop\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2611\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11\ProyectoProgra\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\CapaNegocios.dll.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\27 - 11 - 2020\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Inside\Desktop\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\Inside\Desktop\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\Inside\Desktop\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmReporteSistemaPensiones.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmBienvenido.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.Core.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.barcodes.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.forms.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.io.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.kernel.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.layout.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.pdfa.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.sign.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.svg.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.Core.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.barcodes.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.forms.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.io.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.kernel.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.layout.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.pdfa.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.sign.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.svg.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.ProyectoProgra.exe.config
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmBienvenido.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmReporteSistemaPensiones.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\Inside\Downloads\ProyectoProgramacion (2)\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\ProyectoProgra.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.barcodes.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.forms.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.io.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.kernel.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.layout.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.pdfa.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.sign.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.styledxmlparser.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.svg.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\MdiTabControl.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Google.Protobuf.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Zstandard.Net.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Renci.SshNet.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Memory.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Buffers.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\CapaNegocios.dll.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.Core.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\Common.Logging.Core.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.barcodes.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.forms.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.io.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.kernel.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.layout.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.pdfa.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.sign.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.styledxmlparser.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\itext.svg.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\bin\Debug\MySql.Data.xml
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe.config
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmBienvenido.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmContratosPorVencer.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmCuentaBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmDocumentoPersona.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEmpresa.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmEntidadBancaria.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmInicioSesion.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmMedioPago.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPerfil.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmPrincipal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmReporteSistemaPensiones.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmSistemaPensiones.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmUsuario.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.FrmLocalPersonal.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.Properties.Resources.resources
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.exe
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\ProyectoProgra\obj\Debug\ProyectoProgra.pdb

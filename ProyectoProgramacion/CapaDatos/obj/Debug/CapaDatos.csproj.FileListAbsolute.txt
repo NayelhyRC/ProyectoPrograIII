@@ -1,0 +1,75 @@
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Inside\Desktop\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Desktop\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Desktop\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Desktop\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Inside\Desktop\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ucang\Downloads\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\ucang\Downloads\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ucang\Downloads\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgra (1)\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\4\ROYER HOY\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\hp\Downloads\PROGRAMACIÓN III - Ing. Franklin Terán\Practico\2511\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Inside\Downloads\ProyectoProgramacion (1)\ProyectoProgramacion\ProyectoProgra\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\CapaDatos\obj\Debug\CapaDatos.pdb

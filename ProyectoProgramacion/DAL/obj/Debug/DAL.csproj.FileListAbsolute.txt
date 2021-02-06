@@ -1,0 +1,63 @@
+C:\Users\WHINERY\Documents\Visual Studio 2012\Projects\2020-11-09\Ventas\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2012\Projects\2020-11-09\Ventas\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2012\Projects\2020-11-09\Ventas\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2012\Projects\2020-11-09\Ventas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2012\Projects\2020-11-09\Ventas\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2012\Projects\2020-11-09\Ventas\DAL\obj\Debug\DAL.pdb
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\DAL\bin\Debug\DAL.dll
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\DAL\bin\Debug\DAL.pdb
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\DAL\obj\Debug\DAL.dll
+C:\Users\Inside\Desktop\PROGRA\ProyectoProgra\DAL\obj\Debug\DAL.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\DAL\bin\Debug\DAL.dll
+C:\Users\ucang\Downloads\ProyectoProgra\DAL\bin\Debug\DAL.pdb
+C:\Users\ucang\Downloads\ProyectoProgra\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ucang\Downloads\ProyectoProgra\DAL\obj\Debug\DAL.dll
+C:\Users\ucang\Downloads\ProyectoProgra\DAL\obj\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgra\DAL\obj\Debug\DAL.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\DAL\bin\Debug\DAL.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\DAL\bin\Debug\DAL.pdb
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\DAL\obj\Debug\DAL.dll
+C:\Users\ucang\Desktop\proyecto Prataforma Progra\ProyectoProgra\DAL\obj\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgram\ProyectoProgra\DAL\obj\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\ProyectoProgra\DAL\obj\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoPrograA\DAL\obj\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacion\DAL\obj\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionR\ProyectoProgramacion\DAL\obj\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\DAL\bin\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\DAL\bin\Debug\DAL.pdb
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\DAL\obj\Debug\DAL.dll
+C:\Users\WHINERY\Documents\Visual Studio 2019\Projects\ProyectoProgramacionF\ProyectoProgramacion\DAL\obj\Debug\DAL.pdb
